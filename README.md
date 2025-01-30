@@ -5,8 +5,25 @@ I am a **MERN stack developer** with a strong passion for **learning new technol
 
 ---
 
+## 💻 **Technologies & Tools**  
 
+### **Languages**  
+- **JavaScript**   
 
+### **Backend**  
+- **Node.js**  
+- **Express.js**  
+
+### **Frontend**  
+- **React.js**   
+- **Tailwind CSS**  
+
+### **Database**  
+- **MongoDB**  
+
+### **Other Tools**  
+- **JWT Authentication**  
+- **Redux Toolkit**  
 
 ---
 
