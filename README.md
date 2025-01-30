@@ -1,33 +1,33 @@
 # Hi, I'm Amarnath 👋  
 ### MERN Stack Developer | Passionate About Learning & Innovation  
 
-I am a **MERN stack developer** who enjoys **learning new technologies**, **exploring different tools**, and **building real-world solutions**. I am committed to continuously improving my skills, tackling challenges, and transforming ideas into functional, user-centric applications through code.
+I am a **MERN stack developer** with a strong passion for **learning new technologies**, **exploring cutting-edge tools**, and **creating practical solutions**. My focus is on developing **efficient, scalable**, and **user-friendly applications** that solve real-world problems. I am dedicated to **continuous growth**, refining my skills, and embracing challenges to deliver **innovative, high-quality solutions**. My goal is to **transform ideas into impactful, functional code** that enhances the user experience and drives value for businesses and end-users alike.
 
 ---
 
 ## 💻 **Technologies & Tools**  
+
 ### **Languages:**  
-- JavaScript  
-- TypeScript  
+- **JavaScript**  
 
 ### **Backend:**  
-- Node.js  
-- Express.js  
+- **Node.js**  
+- **Express.js**  
 
 ### **Frontend:**  
-- React.js  
-- ShadCN  
-- Tailwind CSS  
+- **React.js**  
+- **Tailwind CSS**  
 
 ### **Database:**  
-- MongoDB  
+- **MongoDB**  
 
 ### **Other Tools:**  
-- JWT Authentication  
-- Redux Toolkit  
-- Git  
-- Postman  
-- Linux  
+- **JWT Authentication**  
+- **Redux Toolkit**  
+- **Git**  
+- **Postman**  
+- **Linux**  
+
 
 ---
 
