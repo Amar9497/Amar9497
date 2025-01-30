@@ -16,7 +16,6 @@ I'm a **MERN stack developer** who enjoys **learning new things**, **exploring d
 - Build more projects to **improve and expand my skills** 💡  
 
 ## 📫 **How to Reach Me**  
-- **[LinkedIn](https://linkedin.com/in/amarnath-ramesh-b1a66122a)**  
 - **Email:** thanrama05@gmail.com  
 
 ## Connect with me:
